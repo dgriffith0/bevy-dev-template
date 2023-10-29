@@ -1,6 +1,6 @@
 # bevy-empty-template
-Starting template that generate a bevy project for development.
-If you haven't installed dependecies, refer to the quickstart guide.
+Starting template to generate a bevy project for development.
+If you haven't installed dependecies, refer to the bevy quickstart guide.
 
 ## Quickstart
 ### Cargo Generate Installation
